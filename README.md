@@ -1,6 +1,7 @@
 # leetcode-javascript
 
-## 算法题型分类
+
+### 算法题型分类
 
 查找表问题
 
@@ -25,9 +26,12 @@
 贪心算法问题
 
 
+
 [bobo老师玩转算法](https://coding.imooc.com/lesson/82.html#mid=9000)
 
+
 主要学习一下几章的内容：
+
 
 第1章 算法面试是什么
 
@@ -40,6 +44,7 @@
 第7章 二叉树和递归
 
 第8章 递归和回溯法
+
 
 
 [ssh的算法例题详解](https://github.com/sl1673495/leetcode-javascript/blob/master/.vscode/launch.json)
